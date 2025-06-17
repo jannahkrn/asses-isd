@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class GrafBurger {
+public class GrafBurgerISD {
     static Map<String, List<String>> graph = new HashMap<>();
 
     public static void main(String[] args) {
@@ -56,7 +56,7 @@ public class GrafBurger {
             }
         }
     }
-
+    
     static void dfs(String node, Set<String> visited) {
         visited.add(node);
         System.out.println(node);
@@ -69,3 +69,5 @@ public class GrafBurger {
         }
     }
 }
+
+//selesai
