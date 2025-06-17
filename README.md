@@ -1,4 +1,4 @@
-# Assessment 2 Praktek
+# Assessment 2 Praktek Implementasi Struktur Data (ISD)
 
 Nama: Jannah Kurniawati 
 
